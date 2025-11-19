@@ -39,12 +39,12 @@ If you’d like to follow my work and projects, feel free to connect with me.
 
 
 ## Contact
-Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/maisha-tasnim-khan-4769a0227/)
+Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/maishatasnimkhan/)
 
 You can also find me on:
 
 - **Email**: tasnimmaisha08@gmail.com
-- **Linkedin**: [Click Here](https://www.linkedin.com/in/maisha-tasnim-khan-4769a0227/)
+- **Linkedin**: [Click Here](https://www.linkedin.com/in/maishatasnimkhan/)
 - **Facebook** : [Click Here](https://www.facebook.com/ismeeta.tabassum.7/)
 
 
