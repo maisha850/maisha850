@@ -1,3 +1,4 @@
+![Maisha Banner](https://github.com/maisha850/maisha850/raw/main/maisha_banner.jpeg)
 
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
@@ -6,7 +7,13 @@ I'm a passionate Frontend Developer, focused on building modern, responsive, and
 I enjoy exploring new technologies and creating high-quality user interfaces.  
 If you’d like to follow my work and projects, feel free to connect with me.
 
+## 🔭 Currently Exploring
 
+- Next.js  
+- TypeScript  
+- Tailwind CSS & DaisyUI  
+- Firebase  
+- MongoDB
 
 
 <h3>Technologies I Work With</h3>
