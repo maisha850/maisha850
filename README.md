@@ -3,7 +3,7 @@
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 I'm <b>Maisha Tasnim Khan</b>.  
-I'm a passionate Frontend Developer, focused on building modern, responsive, and user-friendly web applications.  
+I'm a passionate MERN Stack Developer, focused on building modern, responsive, and user-friendly web applications.  
 I enjoy exploring new technologies and creating high-quality user interfaces.  
 If you’d like to follow my work and projects, feel free to connect with me.
 
